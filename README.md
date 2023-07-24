@@ -5,19 +5,19 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 
-<a href="https://dragonknight0522.netlify.app/" target="_blank">
-See My Portfolio
-</a> 
-
 ### Glad to see you here!  
 I’m a highly skilled and dedicated Blockchain developer with + 4 years of experiences in developing decentralized applications (DApps) and smart contracts. Proficient in blockchain technologies, including Ethereum, with a deep understanding of cryptography and consensus algorithms.
 I am also a web developer with a passion for creating innovative and user-friendly websites. Proficient in front-end, + 8 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
   
-
 <br/>  
 
 ![image](https://github.com/DragonKnight0522/DragonKnight0522/assets/139461215/4333fdcf-ae57-44b8-a791-2bb324f05057)
 
+<br/>
+<a href="https://dragonknight0522.netlify.app/" target="_blank">
+See My Portfolio
+</a> 
+<br/>
 
 ### My Job  
 - 🔭 I’m Blockchain Developer.
