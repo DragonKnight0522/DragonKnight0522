@@ -17,29 +17,15 @@ I am also a web developer with a passion for creating innovative and user-friend
 
 ![image](https://github.com/DragonKnight0522/DragonKnight0522/assets/139461215/4333fdcf-ae57-44b8-a791-2bb324f05057)
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
 
 ### My Job  
-- 🔭 I’m Blockchain Developer (https://github.com/DragonKnight0522)  
+- 🔭 I’m Blockchain Developer.
   
 
 - ❓ Ask me about anything related to Blockchain and MERN technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+- ⚡ Fun fact: I keep night shift swithed on at all times.
 
 <br/>  
 
