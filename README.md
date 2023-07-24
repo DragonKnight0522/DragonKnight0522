@@ -1,9 +1,4 @@
 ## Hey 👋,  
-  
-
-<a href="https://github.com/DragonKnight0522" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
 
 ### Glad to see you here!  
 I’m a highly skilled and dedicated Blockchain developer with + 4 years of experiences in developing decentralized applications (DApps) and smart contracts. Proficient in blockchain technologies, including Ethereum, with a deep understanding of cryptography and consensus algorithms.
