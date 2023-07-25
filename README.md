@@ -18,7 +18,7 @@ See My Portfolio
 - 🔭 I’m Blockchain Developer.
   
 
-- ❓ Ask me about anything related to Blockchain and MERN technologies  
+- ❓ Ask me about anything related to Blockchain and Full Stack technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times.
