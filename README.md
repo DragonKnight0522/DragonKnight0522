@@ -9,9 +9,9 @@ I am also a web developer with a passion for creating innovative and user-friend
 ![image](https://github.com/DragonKnight0522/DragonKnight0522/assets/139461215/4333fdcf-ae57-44b8-a791-2bb324f05057)
 
 <br/>
-<!--<a href="https://dragonknight0522.netlify.app/" target="_blank">
+<as href="https://dragonknight0522.netlify.app/" target="_blank">
 See My Portfolio
-</a> --!>
+</as>
 <br/>
 
 ### My Job  
