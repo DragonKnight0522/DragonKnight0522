@@ -14,7 +14,8 @@ I am also a web developer with a passion for creating innovative and user-friend
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times.
-<img src="https://camo.githubusercontent.com/65f07cdc0f96e903aeb6bb5cc56459feae4f9527d2a22814fb48d757786cb8a7/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d72656e6f766174742e524541444d45" />
+
+
 <br/>  
 
 
