@@ -1,7 +1,7 @@
 ## Hey 👋,  
 
 ### Glad to see you here!  
-I am also a web developer with a passion for creating innovative and user-friendly websites. Proficient with + 9 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
+I am a developer with a passion for creating innovative and user-friendly websites. Proficient with + 9 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
 
 <br/>  
 
