@@ -1,15 +1,11 @@
 ## Hey 👋,  
 
 ### Glad to see you here!  
-I’m a highly skilled Next.js and Web3 developer with +4 years of experiences in developing decentralized applications (DApps) and smart contracts.
-I am also a web developer with a passion for creating innovative and user-friendly websites. Proficient with + 11 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
+I am also a web developer with a passion for creating innovative and user-friendly websites. Proficient with + 9 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
 
 <br/>  
 
 ### My Job  
-- 🔭 I’m Web3 | Next.js Developer.
-  
-
 - ❓ Ask me about anything related to Blockchain and Full Stack technologies  
   
 
