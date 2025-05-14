@@ -1,12 +1,12 @@
 ## Hey 👋,  
 
 ### Glad to see you here!  
-I am a Software Engineer with a passion for creating innovative and user-friendly websites. Proficient with + 8 years of full stack and blockchain solutions developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
+I am a Software Engineer with a passion for creating innovative and user-friendly websites. Proficient with + 8 years of full stack solutions developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
 
 <br/>  
 
 ### My Job  
-- ❓ Ask me about anything related to Blockchain and Full Stack technologies  
+- ❓ Ask me about anything related to Web development technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times.
